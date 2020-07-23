@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://ignisjang.netlify.app/about/</loc>
+    <lastmod>2020-07-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ignisjang.netlify.app/categories/</loc>
     <lastmod>2020-07-23T00:00:00+00:00</lastmod>
   </url>
@@ -34,16 +39,6 @@
   
   <url>
     <loc>https://ignisjang.netlify.app/tags/</loc>
-    <lastmod>2020-07-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ignisjang.netlify.app/tags/%EB%B0%98%EA%B0%91%EC%8A%B5%EB%8B%88%EB%8B%A4/</loc>
-    <lastmod>2020-07-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ignisjang.netlify.app/tags/%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94/</loc>
     <lastmod>2020-07-23T00:00:00+00:00</lastmod>
   </url>
   
@@ -100,11 +95,6 @@
   <url>
     <loc>https://ignisjang.netlify.app/posts/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ignisjang.netlify.app/about/</loc>
-    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>

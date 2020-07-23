@@ -1,12 +1,13 @@
 ---
-date: "2014-04-09"
+date: "2020-07-23"
 displayInList: false
 displayInMenu: true
 dropCap: false
 title: About Hugo
 ---
 
-Hugo is the **world’s fastest framework for building websites**. It is written in Go.
+안녕하세요.
+제 블로그에 오신 것을 환영합니다.
 
 It makes use of a variety of open source projects including:
 

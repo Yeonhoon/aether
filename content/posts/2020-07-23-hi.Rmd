@@ -1,22 +1,25 @@
 ---
-title: hi
-author: 'JYH'
+title: Hi
+author: JYH
 date: '2020-07-23'
 slug: hi
-categories: 
+categories:
   - R
-tags:
-  - 안녕하세요
-  - 반갑습니다
-  - 장연훈
+tags: []
 description: ''
-toc: no
-dropCap: yes
-displayInMenu: no
-displayInList: yes
-resources:
-  name: featuredImage
-  src: ''
-  params:
-    description: ''
+output:
+  toc: yes
+  toc_depth: 3
+  toc_float: yes
+imgs: []
+cover: ''
+readingTime: yes
+comments: yes
+justify: no
+single: no
+license: ''
 ---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo=F, fig.align = "center", message=F, warning=F, fig.height = 5, fig.widget = 5, cache=T, dpi = 300)
+```

@@ -9,25 +9,25 @@
         <atom:link href="https://ignisjang.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>plot</title>
-      <link>https://ignisjang.netlify.app/tags/plot/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>https://ignisjang.netlify.app/tags/plot/</guid>
-      <description></description>
-    </item><item>
-      <title>R Markdown</title>
-      <link>https://ignisjang.netlify.app/tags/r-markdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>https://ignisjang.netlify.app/tags/r-markdown/</guid>
-      <description></description>
-    </item><item>
       <title>regression</title>
       <link>https://ignisjang.netlify.app/tags/regression/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
       <guid>https://ignisjang.netlify.app/tags/regression/</guid>
+      <description></description>
+    </item><item>
+      <title>development</title>
+      <link>https://ignisjang.netlify.app/tags/development/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://ignisjang.netlify.app/tags/development/</guid>
+      <description></description>
+    </item><item>
+      <title>go</title>
+      <link>https://ignisjang.netlify.app/tags/go/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://ignisjang.netlify.app/tags/go/</guid>
       <description></description>
     </item>
   </channel>
