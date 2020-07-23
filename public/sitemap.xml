@@ -13,12 +13,7 @@
   </url>
   
   <url>
-    <loc>https://ignisjang.netlify.app/posts/hi/</loc>
-    <lastmod>2020-07-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ignisjang.netlify.app/posts/</loc>
+    <loc>https://ignisjang.netlify.app/hi/</loc>
     <lastmod>2020-07-23T00:00:00+00:00</lastmod>
   </url>
   
@@ -54,6 +49,11 @@
   
   <url>
     <loc>https://ignisjang.netlify.app/categories/features/</loc>
+    <lastmod>2018-12-19T10:35:35-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ignisjang.netlify.app/posts/</loc>
     <lastmod>2018-12-19T10:35:35-05:00</lastmod>
   </url>
   

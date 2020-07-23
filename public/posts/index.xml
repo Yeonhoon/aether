@@ -4,18 +4,11 @@
     <link>https://ignisjang.netlify.app/posts/</link>
     <description>Recent content in Posts on JANGc</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 23 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Dec 2018 10:35:35 -0500</lastBuildDate>
     
         <atom:link href="https://ignisjang.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Hi</title>
-      <link>https://ignisjang.netlify.app/posts/hi/</link>
-      <pubDate>Thu, 23 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://ignisjang.netlify.app/posts/hi/</guid>
-      <description></description>
-    </item><item>
       <title>Aether Features</title>
       <link>https://ignisjang.netlify.app/posts/aether-features/</link>
       <pubDate>Wed, 19 Dec 2018 10:35:35 -0500</pubDate>
@@ -29,6 +22,14 @@
       
       <guid>https://ignisjang.netlify.app/posts/aether-theme/</guid>
       <description> Aether is new theme for Hugo that emphasizes motion, material, and depth as design elements. Distracting styling and page elements are forgone to focus on the content.</description>
+    </item><item>
+      <title>Creating a New Theme</title>
+      <link>https://ignisjang.netlify.app/posts/creating-a-new-theme/</link>
+      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://ignisjang.netlify.app/posts/creating-a-new-theme/</guid>
+      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
+We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
     </item>
   </channel>
 </rss>
