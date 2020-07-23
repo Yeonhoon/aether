@@ -1,21 +1,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>R - JANGc</title>
-    <link>https://ignisjang.netlify.app/categories/r/</link>
-    <description>Recent content in R on JANGc</description>
+    <title>broom - JANGc</title>
+    <link>https://ignisjang.netlify.app/tags/broom/</link>
+    <description>Recent content in broom on JANGc</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Thu, 23 Jul 2020 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="https://ignisjang.netlify.app/categories/r/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://ignisjang.netlify.app/tags/broom/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Hi</title>
-      <link>https://ignisjang.netlify.app/posts/hi/</link>
-      <pubDate>Thu, 23 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://ignisjang.netlify.app/posts/hi/</guid>
-      <description></description>
-    </item><item>
       <title>R로 반복작업 하기(feat. broom)</title>
       <link>https://ignisjang.netlify.app/post/r%EB%A1%9C-%EB%B0%98%EB%B3%B5%EC%9E%91%EC%97%85-%ED%95%98%EA%B8%B0-feat-broom/</link>
       <pubDate>Thu, 23 Jul 2020 00:00:00 +0000</pubDate>

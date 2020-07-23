@@ -9,11 +9,11 @@
         <atom:link href="https://ignisjang.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Hi</title>
-      <link>https://ignisjang.netlify.app/hi/</link>
+      <title>Posts</title>
+      <link>https://ignisjang.netlify.app/posts/</link>
       <pubDate>Thu, 23 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ignisjang.netlify.app/hi/</guid>
+      <guid>https://ignisjang.netlify.app/posts/</guid>
       <description></description>
     </item><item>
       <title>Posts</title>
@@ -21,13 +21,6 @@
       <pubDate>Thu, 23 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://ignisjang.netlify.app/post/</guid>
-      <description></description>
-    </item><item>
-      <title>Posts</title>
-      <link>https://ignisjang.netlify.app/posts/</link>
-      <pubDate>Wed, 19 Dec 2018 10:35:35 -0500</pubDate>
-      
-      <guid>https://ignisjang.netlify.app/posts/</guid>
       <description></description>
     </item>
   </channel>

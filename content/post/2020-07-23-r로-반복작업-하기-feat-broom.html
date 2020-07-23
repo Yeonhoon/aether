@@ -1,0 +1,86 @@
+---
+title: R로 반복작업 하기(feat. broom)
+author: JYH
+date: '2020-07-23'
+slug: r로-반복작업-하기-feat-broom
+categories:
+  - R
+tags:
+  - broom
+  - tidyverse
+description: ''
+output:
+  html_document:
+    fig_height: 3
+    fig_width: 3
+    highlight: textmate
+    theme: cosmo
+    toc: yes
+    toc_depth: 3
+    toc_float: yes
+imgs: []
+cover: ''
+readingTime: yes
+comments: yes
+justify: no
+single: no
+license: ''
+---
+
+<script src="/rmarkdown-libs/header-attrs/header-attrs.js"></script>
+
+
+<p>안녕하세요. 오늘은 R을 활용한 통계분석 반복작업에 대해서 알아보겠습니다!<!--read More --></p>
+<p>프로젝트나 통계분석에서 여러 개의 변수들을 대상으로 t.test나 anova같은 분석을 할 때,<br>
+<code>ctrl+c/v</code>를 반복하여 일일이 변수명을 바꾸는 것은 정말 귀찮은 일입니다…</p>
+<p>한 데이터셋에서 T.test를 여러 변수별로 해본다고 가정해보겠습니다.<br></p>
+<p>어떤 데이터에서 y라는 인구학적 변수별로 x1에서 x7까지 총 7번의 t.test를 할 경우</p>
+<pre class="r"><code>## T.test 여러번 반복할 경우
+t.test(x1 ~ y)
+t.test(x2 ~ y)
+t.test(x3 ~ y)
+t.test(x4 ~ y)
+t.test(x5 ~ y)
+t.test(x6 ~ y)
+t.test(x7 ~ y)</code></pre>
+<p>이렇게 총 7가지를 시행해야 합니다.</p>
+<p>t.test를 진행할 경우 콘솔에 다음과 같은 결과창이 뜨는데.
+mtcars 데이터를 예로 들어보겠습니다.</p>
+<pre><code>## 
+##  Welch Two Sample t-test
+## 
+## data:  df$mpg by df$am
+## t = -3.7671, df = 18.332, p-value = 0.001374
+## alternative hypothesis: true difference in means is not equal to 0
+## 95 percent confidence interval:
+##  -11.280194  -3.209684
+## sample estimates:
+## mean in group 0 mean in group 1 
+##        17.14737        24.39231</code></pre>
+<p>이렇게 나온 결과값은 드래그해서 다른 문서에 복사하면 형태가 깨지는 현상이 발생합니다.<br></p>
+이렇게 7번을 진행할 경우, R콘솔 창에 복사하기도 힘든 결과가 7개가 나오고, 이것을 엑셀이나 다른 데에 정리하는 것은 굉장히 노가다가 될 것입니다…
+<hr>
+<p>그래서 우리는 tidyverse 중 broom 라이브러리를 사용하여 이 문제를 해결해보고자 합니다!</p>
+<div class="figure" style="text-align: center"><span id="fig:unnamed-chunk-3"></span>
+<img src="https://cran.r-project.org/web/packages/broom/readme/man/figures/logo.png" alt="broom 패키지"  />
+<p class="caption">
+Figure 1: broom 패키지
+</p>
+</div>
+<p>참고로 tidyverse, 그러니까 tidy 생태계에는 정말 유용한 라이브러리들이 있습니다.</p>
+<div class="figure" style="text-align: center"><span id="fig:unnamed-chunk-4"></span>
+<img src="https://tidy-ds.wjakethompson.com/img/hex-stickers.png" alt="tidyverse 속 다양한 패키지"  />
+<p class="caption">
+Figure 2: tidyverse 속 다양한 패키지
+</p>
+</div>
+<p>나중에 기회가 될때 다루도록 하죠!</p>
+<p>어쨌든 우리는 <code>broom</code> 라이브러리를 실행해야 합니다.<br>
+(패키지가 없는 분들은 <code>install.packages('broom')</code>을 시행해주도록 합시다.)</p>
+<p>broom 패키지 중에서 유용하게 쓰이는 것은 바로 <code>tidy</code> 라는 함수입니다.
+우리는 이 <code>tidy</code>를 이용하여 여러 결과를 정리할 수 있습니다.</p>
+<p>전 mtcars를 예로 들어 설명해보겠습니다.</p>
+<div id="x에-들어가는-변수가-여러개인-경우" class="section level2">
+<h2>X에 들어가는 변수가 여러개인 경우</h2>
+<p>이 경우는 Y변수가 고정되어 있고, X변수들만 바꾸어주면 됩니다.</p>
+</div>

@@ -8,12 +8,22 @@
   </url>
   
   <url>
+    <loc>https://ignisjang.netlify.app/tags/broom/</loc>
+    <lastmod>2020-07-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ignisjang.netlify.app/categories/</loc>
     <lastmod>2020-07-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ignisjang.netlify.app/hi/</loc>
+    <loc>https://ignisjang.netlify.app/posts/hi/</loc>
+    <lastmod>2020-07-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ignisjang.netlify.app/posts/</loc>
     <lastmod>2020-07-23T00:00:00+00:00</lastmod>
   </url>
   
@@ -28,12 +38,27 @@
   </url>
   
   <url>
+    <loc>https://ignisjang.netlify.app/post/r%EB%A1%9C-%EB%B0%98%EB%B3%B5%EC%9E%91%EC%97%85-%ED%95%98%EA%B8%B0-feat-broom/</loc>
+    <lastmod>2020-07-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ignisjang.netlify.app/posts/r%EB%A1%9C-%EB%B0%98%EB%B3%B5%EC%9E%91%EC%97%85-%ED%95%98%EA%B8%B0-feat-broom/</loc>
+    <lastmod>2020-07-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ignisjang.netlify.app/post/second/</loc>
     <lastmod>2020-07-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ignisjang.netlify.app/tags/</loc>
+    <lastmod>2020-07-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ignisjang.netlify.app/tags/tidyverse/</loc>
     <lastmod>2020-07-23T00:00:00+00:00</lastmod>
   </url>
   
@@ -49,11 +74,6 @@
   
   <url>
     <loc>https://ignisjang.netlify.app/categories/features/</loc>
-    <lastmod>2018-12-19T10:35:35-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ignisjang.netlify.app/posts/</loc>
     <lastmod>2018-12-19T10:35:35-05:00</lastmod>
   </url>
   

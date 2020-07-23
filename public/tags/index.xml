@@ -9,25 +9,25 @@
         <atom:link href="https://ignisjang.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>broom</title>
+      <link>https://ignisjang.netlify.app/tags/broom/</link>
+      <pubDate>Thu, 23 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ignisjang.netlify.app/tags/broom/</guid>
+      <description></description>
+    </item><item>
+      <title>tidyverse</title>
+      <link>https://ignisjang.netlify.app/tags/tidyverse/</link>
+      <pubDate>Thu, 23 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ignisjang.netlify.app/tags/tidyverse/</guid>
+      <description></description>
+    </item><item>
       <title>장연훈</title>
       <link>https://ignisjang.netlify.app/tags/%EC%9E%A5%EC%97%B0%ED%9B%88/</link>
       <pubDate>Thu, 23 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://ignisjang.netlify.app/tags/%EC%9E%A5%EC%97%B0%ED%9B%88/</guid>
-      <description></description>
-    </item><item>
-      <title>plot</title>
-      <link>https://ignisjang.netlify.app/tags/plot/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>https://ignisjang.netlify.app/tags/plot/</guid>
-      <description></description>
-    </item><item>
-      <title>R Markdown</title>
-      <link>https://ignisjang.netlify.app/tags/r-markdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>https://ignisjang.netlify.app/tags/r-markdown/</guid>
       <description></description>
     </item>
   </channel>
