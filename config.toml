@@ -9,7 +9,6 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [params]
 brand = "JANGc"
 description = "Blog of JYH"
-bgimg = "img/bg_blue.jpg"
 metaCreator = "Joe Hutchinson"
 metaImage = "img/ogimage.jpg"
 
