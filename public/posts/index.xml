@@ -1,0 +1,34 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts - JANGc</title>
+    <link>https://ignisjang.netlify.app/posts/</link>
+    <description>Recent content in Posts on JANGc</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 23 Jul 2020 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="https://ignisjang.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>hi</title>
+      <link>https://ignisjang.netlify.app/posts/hi/</link>
+      <pubDate>Thu, 23 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ignisjang.netlify.app/posts/hi/</guid>
+      <description></description>
+    </item><item>
+      <title>Aether Features</title>
+      <link>https://ignisjang.netlify.app/posts/aether-features/</link>
+      <pubDate>Wed, 19 Dec 2018 10:35:35 -0500</pubDate>
+      
+      <guid>https://ignisjang.netlify.app/posts/aether-features/</guid>
+      <description>Hugo combined with the Aether theme turns easy to write markdown into powerful web pages.  KaTeX, Highlight.js, and Hugo provides the ability to create mathmatical symobols, equations, highlighted code, tables, lists, and much more.</description>
+    </item><item>
+      <title>Aether: A Clean Theme for Hugo</title>
+      <link>https://ignisjang.netlify.app/posts/aether-theme/</link>
+      <pubDate>Wed, 02 May 2018 14:33:42 -0400</pubDate>
+      
+      <guid>https://ignisjang.netlify.app/posts/aether-theme/</guid>
+      <description> Aether is new theme for Hugo that emphasizes motion, material, and depth as design elements. Distracting styling and page elements are forgone to focus on the content.</description>
+    </item>
+  </channel>
+</rss>

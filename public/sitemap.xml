@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://ignisjang.netlify.app/categories/</loc>
+    <lastmod>2020-07-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ignisjang.netlify.app/posts/hi/</loc>
+    <lastmod>2020-07-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ignisjang.netlify.app/posts/</loc>
+    <lastmod>2020-07-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ignisjang.netlify.app/post/</loc>
+    <lastmod>2020-07-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ignisjang.netlify.app/categories/r/</loc>
+    <lastmod>2020-07-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ignisjang.netlify.app/post/second/</loc>
+    <lastmod>2020-07-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ignisjang.netlify.app/tags/</loc>
+    <lastmod>2020-07-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ignisjang.netlify.app/tags/%EB%B0%98%EA%B0%91%EC%8A%B5%EB%8B%88%EB%8B%A4/</loc>
+    <lastmod>2020-07-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ignisjang.netlify.app/tags/%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94/</loc>
+    <lastmod>2020-07-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ignisjang.netlify.app/tags/%EC%9E%A5%EC%97%B0%ED%9B%88/</loc>
+    <lastmod>2020-07-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ignisjang.netlify.app/posts/aether-features/</loc>
+    <lastmod>2018-12-19T10:35:35-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ignisjang.netlify.app/categories/features/</loc>
+    <lastmod>2018-12-19T10:35:35-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ignisjang.netlify.app/posts/aether-theme/</loc>
+    <lastmod>2018-05-02T14:33:42-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ignisjang.netlify.app/categories/web/</loc>
+    <lastmod>2018-05-02T14:33:42-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ignisjang.netlify.app/</loc>
+    <lastmod>2018-04-27T09:46:15-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ignisjang.netlify.app/post/2015-07-23-r-rmarkdown/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ignisjang.netlify.app/tags/plot/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ignisjang.netlify.app/tags/r-markdown/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ignisjang.netlify.app/tags/regression/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ignisjang.netlify.app/posts/creating-a-new-theme/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ignisjang.netlify.app/about/</loc>
+    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ignisjang.netlify.app/posts/goisforlovers/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ignisjang.netlify.app/categories/development/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ignisjang.netlify.app/tags/development/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ignisjang.netlify.app/posts/hugoisforlovers/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ignisjang.netlify.app/tags/go/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ignisjang.netlify.app/tags/golang/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ignisjang.netlify.app/categories/golang/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ignisjang.netlify.app/tags/hugo/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ignisjang.netlify.app/tags/templates/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ignisjang.netlify.app/tags/themes/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ignisjang.netlify.app/posts/migrate-from-jekyll/</loc>
+    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+</urlset>

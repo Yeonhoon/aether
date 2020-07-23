@@ -1,0 +1,14 @@
+---
+title: second
+author: JYH
+date: '2020-07-23'
+slug: second
+categories:
+  - R
+tags:
+  - 장연훈
+description: ''
+dropCap: no
+displayInMenu: no
+displayInList: yes
+---

@@ -1,0 +1,34 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories - JANGc</title>
+    <link>https://ignisjang.netlify.app/categories/</link>
+    <description>Recent content in Categories on JANGc</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 23 Jul 2020 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="https://ignisjang.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>R</title>
+      <link>https://ignisjang.netlify.app/categories/r/</link>
+      <pubDate>Thu, 23 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ignisjang.netlify.app/categories/r/</guid>
+      <description></description>
+    </item><item>
+      <title>Features</title>
+      <link>https://ignisjang.netlify.app/categories/features/</link>
+      <pubDate>Wed, 19 Dec 2018 10:35:35 -0500</pubDate>
+      
+      <guid>https://ignisjang.netlify.app/categories/features/</guid>
+      <description></description>
+    </item><item>
+      <title>Web</title>
+      <link>https://ignisjang.netlify.app/categories/web/</link>
+      <pubDate>Wed, 02 May 2018 14:33:42 -0400</pubDate>
+      
+      <guid>https://ignisjang.netlify.app/categories/web/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

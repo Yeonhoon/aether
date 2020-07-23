@@ -1,0 +1,22 @@
+---
+title: hi
+author: 'JYH'
+date: '2020-07-23'
+slug: hi
+categories: 
+  - R
+tags:
+  - 안녕하세요
+  - 반갑습니다
+  - 장연훈
+description: ''
+toc: no
+dropCap: yes
+displayInMenu: no
+displayInList: yes
+resources:
+  name: featuredImage
+  src: ''
+  params:
+    description: ''
+---

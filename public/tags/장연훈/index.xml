@@ -1,0 +1,27 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>장연훈 - JANGc</title>
+    <link>https://ignisjang.netlify.app/tags/%EC%9E%A5%EC%97%B0%ED%9B%88/</link>
+    <description>Recent content in 장연훈 on JANGc</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 23 Jul 2020 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="https://ignisjang.netlify.app/tags/%EC%9E%A5%EC%97%B0%ED%9B%88/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>hi</title>
+      <link>https://ignisjang.netlify.app/posts/hi/</link>
+      <pubDate>Thu, 23 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ignisjang.netlify.app/posts/hi/</guid>
+      <description></description>
+    </item><item>
+      <title>second</title>
+      <link>https://ignisjang.netlify.app/post/second/</link>
+      <pubDate>Thu, 23 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ignisjang.netlify.app/post/second/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
